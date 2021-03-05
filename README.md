@@ -1,2 +1,1 @@
-# computational methods in economics
- 
+Вычислительные методы в эконоике
